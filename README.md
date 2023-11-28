@@ -10,3 +10,5 @@
     <h1 align="center">WASI-1.O<br></h1>
     
        
+```
+TERMUX-SETUP-X-Wasi ```
